@@ -1,6 +1,10 @@
 # Integrantes
-* Maria Jose Cely 
-* Juan Esteban Currea
+* Maria Jose Cely Ortiz
+  Codigo: 202011803
+  Correo:m.cely@uniandes.edu.co
+* Juan Esteban Currea Vergara 
+  Codigo: 201922133
+  Correo: j.curreav@uniandes.edu.co
 ------------------------------------------
 #ISIS1225 - Estructura de un proyecto
 
